@@ -1,0 +1,32 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+.venv/
+.venv312/
+venv/
+env/
+
+# VSCode配置
+.vscode/
+*.code‑workspace
+
+# 程序输出文件夹（不提交生成的图片、结果文件）
+Figure/
+FigureOptim/
+FigureOptimSingle/
+OptimizationResults/
+backbone/
+F/
+
+# 临时文件、日志
+*.log
+*.txt~
+*.json~
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
