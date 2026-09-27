@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+mealpy
+openseespy
+scikit-learn
